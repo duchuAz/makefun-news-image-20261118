@@ -33,7 +33,7 @@ sha256sum out/entry.png entry.png
 
 ## Layout
 
-- `entry.png` — the finished image (1024x1024, 317,765 bytes)
+- `entry.png` — the finished image (1024x1024, 216,678 bytes)
 - `main.ts` — the program described above
 - `.makefun/owner.json` — the claim file naming the entry's wallet
 - `LICENSE` — MIT
