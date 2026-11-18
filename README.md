@@ -1,6 +1,6 @@
 # news-image-20261118
 
-An entry for the make.fun [news-image-20261118](https://make.fun/bounty/news-image-20261118) bounty: a 1024x1024 front page of the world news reported between 00:00 and 01:30 UTC on 18 November 2026.
+An entry for the make.fun [news-image-20261118](https://make.fun/bounty/news-image-20261118) bounty: a 1024x1024 front page of world news reported on 18 November 2026.
 
 [![make.fun entry](https://make.fun/badge/news-image-20261118.svg)](https://make.fun/bounty/news-image-20261118)
 [![make.fun rank](https://make.fun/badge/news-image-20261118/duchuAz/makefun-news-image-20261118/rank.svg)](https://make.fun/bounty/news-image-20261118)
@@ -33,7 +33,7 @@ sha256sum out/entry.png entry.png
 
 ## Layout
 
-- `entry.png` — the finished image (1024x1024, 172,561 bytes)
+- `entry.png` — the finished image (1024x1024, 317,765 bytes)
 - `main.ts` — the program described above
 - `.makefun/owner.json` — the claim file naming the entry's wallet
 - `LICENSE` — MIT
